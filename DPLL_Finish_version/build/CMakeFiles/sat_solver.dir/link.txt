@@ -1,0 +1,3 @@
+"D:\Work_soft\VS 2022\community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E rm -f CMakeFiles\sat_solver.dir/objects.a
+"D:\Edge Download\x86_64-8.1.0-release-posix-seh-rt_v6-rev0\mingw64\bin\ar.exe" qc CMakeFiles\sat_solver.dir/objects.a @CMakeFiles\sat_solver.dir\objects1.rsp
+"D:\Edge Download\x86_64-8.1.0-release-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe" -g -Wl,--whole-archive CMakeFiles\sat_solver.dir/objects.a -Wl,--no-whole-archive -o sat_solver.exe -Wl,--out-implib,libsat_solver.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\sat_solver.dir\linkLibs.rsp
