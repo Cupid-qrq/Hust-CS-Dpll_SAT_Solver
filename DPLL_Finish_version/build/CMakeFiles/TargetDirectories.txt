@@ -1,3 +1,0 @@
-E:/githubRepo/DPLL_Finish_version/build/CMakeFiles/sat_solver.dir
-E:/githubRepo/DPLL_Finish_version/build/CMakeFiles/edit_cache.dir
-E:/githubRepo/DPLL_Finish_version/build/CMakeFiles/rebuild_cache.dir
